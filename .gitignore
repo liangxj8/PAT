@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.cbp
+*.depend
+*.layout
+Basic Level/main.cpp

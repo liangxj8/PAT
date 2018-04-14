@@ -6,3 +6,7 @@ Everyday PAT.</br>
 <a href="https://www.patest.cn/contests/pat-b-practise">PAT (Basic Level) Practice （中文）</a></br>
 <a href="https://www.patest.cn/contests/pat-a-practise">PAT (Advanced Level) Practice</a></br>
 <a href="https://www.patest.cn/contests/pat-t-practise">PAT (Top Level) Practice</a></br>
+
+### Development Environment
+- IDE: `Code::Blocks 16.01`
+- Compiler & Debugger: `mingw-w64`
