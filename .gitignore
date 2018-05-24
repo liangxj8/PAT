@@ -33,4 +33,5 @@
 *.cbp
 *.depend
 *.layout
-Basic Level/main.cpp
+project/main.cpp
+Basic Level/liuchuo_*.cpp
